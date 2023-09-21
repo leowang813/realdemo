@@ -1,0 +1,11 @@
+gitlab is so cool
+add more
+<<<<<<< HEAD
+here is master branch
+=======
+here is branch develop
+>>>>>>> develop
+develop3
+developv3
+developv2
+git pull = git fetch + git merge
